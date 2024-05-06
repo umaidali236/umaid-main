@@ -1,6 +1,6 @@
 # This is my main repository.
 
-Here I will post links to my other repositories.
+Contains links to my other repositories.
 
 ## Index
 
